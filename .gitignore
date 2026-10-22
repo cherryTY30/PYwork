@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 临时文件
+tmp/
+*.pkl
+
+# 辅助脚本（不提交）
+build_*.py
+fix_*.py
+check_*.py
+inspect_*.py
+verify_*.py
+run_with_*.py
+exp01.ipynb
+test.py
+
+# 数据文件（可选，如果不需要提交）
+# exp01_data/
+
+# 系统
+Thumbs.db
+.DS_Store
